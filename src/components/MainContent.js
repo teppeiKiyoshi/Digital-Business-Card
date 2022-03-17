@@ -5,15 +5,16 @@ export default function MainContent() {
     <div className='main-wrapper'>
       <h3>About</h3>
       <p>
-        I am a frontend developer with a particular intersst in making things
-        simple and automating daily tasks. I try to keep up with security and
-        best practices, and am always looking for new things to learn.
+        I am an aspiring frontend developer with a particular intersst in making
+        things simple and automating daily tasks. I try to keep up with security
+        and best practices, and am always looking for new things to learn while
+        having fun!
       </p>
       <h3>Interests</h3>
       <p>
-        Food Expert. Music Scholar. Reader. Internet fanatic. Bacon supremacy.
-        Entrepreneur. Travel geek. Pistachio buff. Pop culture ninja. Coffee in
-        my veins.
+        Caffeine in my veins. Noob Gamer. Valorant Nerd. Travel geek. Pistachio
+        buff. Bacon supremacy. Pop culture ninja. Internet fanatic. I am a slave
+        of developing awesome websites!
       </p>
     </div>
   );
