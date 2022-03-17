@@ -21,7 +21,7 @@ export default function Header() {
               <i class='bx bx-envelope bx-xs bx-tada-hover'></i> Email
             </a>
             <a
-              href='https://www.linkedin.com/in/martin-emanuelle/'
+              href='#'
               className='btn btn-lin'
             >
               <i class='bx bxl-linkedin-square bx-xs bx-tada-hover'></i>{' '}
