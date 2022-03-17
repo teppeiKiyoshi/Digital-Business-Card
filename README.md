@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Project Overview
+This project is inline with the React course provided by Scrimba. In here, primarily asesses and fortify my skills and foundation in terms of developing websites using React. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
