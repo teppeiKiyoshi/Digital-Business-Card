@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Digital-Business-Card/static/css/main.c206ddab.css",
-    "main.js": "/Digital-Business-Card/static/js/main.256a7b8b.js",
+    "main.js": "/Digital-Business-Card/static/js/main.b760e734.js",
     "static/media/hisoka.jpg": "/Digital-Business-Card/static/media/hisoka.de0f9b4862033fc9e145.jpg",
     "index.html": "/Digital-Business-Card/index.html",
     "main.c206ddab.css.map": "/Digital-Business-Card/static/css/main.c206ddab.css.map",
-    "main.256a7b8b.js.map": "/Digital-Business-Card/static/js/main.256a7b8b.js.map"
+    "main.b760e734.js.map": "/Digital-Business-Card/static/js/main.b760e734.js.map"
   },
   "entrypoints": [
     "static/css/main.c206ddab.css",
-    "static/js/main.256a7b8b.js"
+    "static/js/main.b760e734.js"
   ]
 }
