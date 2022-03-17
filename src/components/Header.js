@@ -20,7 +20,10 @@ export default function Header() {
             <a href='#' className='btn btn-email'>
               <i class='bx bx-envelope bx-xs bx-tada-hover'></i> Email
             </a>
-            <a href='#' className='btn btn-lin'>
+            <a
+              href='https://www.linkedin.com/in/martin-emanuelle/'
+              className='btn btn-lin'
+            >
               <i class='bx bxl-linkedin-square bx-xs bx-tada-hover'></i>{' '}
               LinkedIn
             </a>
